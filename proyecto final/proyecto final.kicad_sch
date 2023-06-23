@@ -858,10 +858,10 @@
       (reference "J2") (unit 1) (value "inonizador input") (footprint "TerminalBlock:TerminalBlock_bornier-2_P5.08mm")
     )
     (path "/5c33a311-f729-4cfc-8c7e-f1f5de5439f0/9ee8f1a9-1e85-4c27-84ea-979ffb45f7f0/c4189af7-63ee-4ab2-bf55-85d2076cc3b2"
-      (reference "J3") (unit 1) (value "IO_IZQUIERDA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+      (reference "J3") (unit 1) (value "IO_IZQUIERDA") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x17_P2.54mm_Vertical")
     )
     (path "/5c33a311-f729-4cfc-8c7e-f1f5de5439f0/9ee8f1a9-1e85-4c27-84ea-979ffb45f7f0/a16611cf-03ea-4f70-8ee8-8635a692cee6"
-      (reference "J4") (unit 1) (value "IO_DERECHA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "IO_DERECHA") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x17_P2.54mm_Vertical")
     )
     (path "/36438175-3d89-43c5-9583-e9e813a2e6d3/67814a67-aa5c-4369-b35d-b56d5a67b68d"
       (reference "J5") (unit 1) (value "MACHO") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical")
