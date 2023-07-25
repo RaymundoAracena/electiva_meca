@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "IP11 Footprints KICAD")(type "KiCad")(uri "${KIPRJMOD}/IP11 Footprints KICAD")(options "")(descr ""))
+)

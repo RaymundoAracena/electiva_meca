@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TEST")(type "KiCad")(uri "/Users/arl_engineering/Documents/PCBWay/Jigs #1/test footprints")(options "")(descr ""))
+)

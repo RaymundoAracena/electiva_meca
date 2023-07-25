@@ -1464,7 +1464,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x05") (at 64.77 114.3 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid efed4091-5905-4d7b-a344-31cb4694f4a3)
     (property "Reference" "J24" (at 64.77 102.87 0)
       (effects (font (size 1.27 1.27)))
@@ -1478,11 +1478,11 @@
     (property "Datasheet" "~" (at 64.77 114.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ba82deb4-cc4d-41ec-968a-f326ae44cf55))
-    (pin "2" (uuid 870a7041-9be1-448c-81d0-5274b5f8e20f))
-    (pin "3" (uuid 3d269ff8-2766-4a26-928d-f0ec184bed19))
-    (pin "4" (uuid c106d72b-05ea-4cd7-95cc-9cf8dd2ef515))
-    (pin "5" (uuid a540be7f-0511-479f-8c91-f8008c2651a4))
+    (pin "1" (uuid 00ed7c3c-9ea9-4949-8feb-72042e2d706b))
+    (pin "2" (uuid e945edec-83cb-49b8-9b98-8a24752ee016))
+    (pin "3" (uuid d1aac3c6-cc70-48cb-9e9d-007a421af424))
+    (pin "4" (uuid d845fca2-8317-4b7b-8137-3533bac7f3fb))
+    (pin "5" (uuid 8f1ef5ab-15af-4f6e-9a41-36b1c5f213fd))
     (instances
       (project "robotica"
         (path "/c583e76c-1e9c-4331-a3cd-87a9f3f154df"
