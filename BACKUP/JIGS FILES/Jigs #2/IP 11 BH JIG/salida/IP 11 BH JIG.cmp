@@ -1,0 +1,163 @@
+Cmp-Mod V01 Created by PcbNew   date = 4/30/2023 7:44:31 PM
+
+BeginCmp
+TimeStamp = 173be2bb-1bc4-45a1-ac50-2c1571e93c7c
+Path = /933afd47-f24c-4ccd-aa77-7b5410d72d01
+Reference = J1_FATHER1;
+ValeurCmp = CHARGING PORT CONNECTOR 1 - PCBA FEMALE;
+IdModule  = IP11 Footprints KICAD:IP11_J8200_13_PCBA_CHARGING_CONNECTOR_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 227f88fb-f688-4288-a72f-27120f28e2b7
+Path = /75a2dde9-f4d4-4fd8-806c-9de41c8e9c1a
+Reference = J2_DAUGTHER1;
+ValeurCmp = CHARGING PORT CONNECTOR 2 - FLEX MALE;
+IdModule  = IP11 Footprints KICAD:IP11_J-LAT-K_14_PCBA_CHARGING_CONNECTOR_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 2af486e2-5af5-4049-9339-fcabde7f0355
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_ISO7380;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_ISO7380;
+EndCmp
+
+BeginCmp
+TimeStamp = 38b44ea0-8924-4eef-bb21-0165021fad45
+Path = /d0e59875-49d7-405b-b1c6-91f267cf3f3e
+Reference = J6_DAUGTHER1;
+ValeurCmp = Conn_02x10_Counter_Clockwise;
+IdModule  = IP11 Footprints KICAD:ZIF 20pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f287bda-0e0e-4977-934a-56d34aef0a58
+Path = /fdb2290a-fe7a-4780-92c9-f7844010e928
+Reference = J3_DAUGHTER1;
+ValeurCmp = WIRELESS CHARGER CONNECTOR - FLEX MALE;
+IdModule  = IP11 Footprints KICAD:IP11_J7100_7_PCBA_WIRELESS_CHARGER_CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 47ba4329-a999-400f-ba5c-dd240db67252
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_ISO7380;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_ISO7380;
+EndCmp
+
+BeginCmp
+TimeStamp = 480d78d4-ca62-493a-9bed-3622b7d59e6a
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = IP11 Footprints KICAD:airlink_footprint;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b575a3b-cc03-447e-ba01-e0aba7eb2d09
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = IP11 Footprints KICAD:airlink_footprint;
+EndCmp
+
+BeginCmp
+TimeStamp = 5691ed7d-8c85-4833-a583-73f54054165f
+Path = /b395c5c1-eff6-4560-bc45-33332d1e4a6b
+Reference = J2_FATHER1;
+ValeurCmp = CHARGING PORT CONNECTOR 2 - PCBA FEMALE;
+IdModule  = IP11 Footprints KICAD:IP11_J-LAT-K_14_PCBA_CHARGING_CONNECTOR_2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c494c9d-4480-4c5d-bdca-ecf092ad1d51
+Path = /87ff6b08-2f5b-449b-809d-d2827bf64ff2
+Reference = J4_FATHER1;
+ValeurCmp = VOLUME KEY CONNECTOR - PCBA FEMALE;
+IdModule  = IP11 Footprints KICAD:IP11_J-UAT-K_1_PCBA_VOLUME_KEY_CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 6133b242-fc37-4329-98d6-ac1c8906d997
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_ISO7380;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_ISO7380;
+EndCmp
+
+BeginCmp
+TimeStamp = 697d78f2-e98c-418a-903b-eda6d88fc28f
+Path = /337b850d-db3e-4482-938b-05aeb600fc59
+Reference = J7_FATHER1;
+ValeurCmp = POWER KEY CONNECTOR - PCBA FEMALE;
+IdModule  = IP11 Footprints KICAD:IP11_J7700_9_PCBA_POWER_KEY_FLEX_CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 73789cd5-ba88-4a57-a7b3-34597c6204ec
+Path = /12881334-a100-4d1a-844f-edc2c684c905
+Reference = J4_DAUGTHER1;
+ValeurCmp = VOLUME KEY CONNECTOR -  FLEX MALE;
+IdModule  = IP11 Footprints KICAD:IP11_J-UAT-K_1_PCBA_VOLUME_KEY_CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = 8b8f4b02-fe15-474c-9095-59bf3c0ea1f2
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_2.2mm_M2_ISO7380;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_ISO7380;
+EndCmp
+
+BeginCmp
+TimeStamp = a295e973-7230-48f7-b189-12ee2f0d126e
+Path = /228fda71-4835-41e9-9806-7c236b639ab3
+Reference = J7_DAUGHTER1;
+ValeurCmp = POWER KEY CONNECTOR - FLEX MALE;
+IdModule  = IP11 Footprints KICAD:IP11_J7700_9_PCBA_POWER_KEY_FLEX_CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = b8709b6a-ec57-454f-83e6-8d506e5d8821
+Path = /33057d6a-806b-4782-86f9-c4c3737c1734
+Reference = J6_FATHER1;
+ValeurCmp = Conn_02x10_Counter_Clockwise;
+IdModule  = IP11 Footprints KICAD:ZIF 20pin;
+EndCmp
+
+BeginCmp
+TimeStamp = c7778dbc-5895-464a-99ab-f3138bae4faf
+Path = /f555a7c2-9d5a-45c6-a4a9-dc4e919ae7df
+Reference = J1_DAUGTHER1;
+ValeurCmp = CHARGING PORT CONNECTOR 1 - FLEX MALE;
+IdModule  = IP11 Footprints KICAD:IP11_J8200_13_PCBA_CHARGING_CONNECTOR_1;
+EndCmp
+
+BeginCmp
+TimeStamp = cd0d8afc-3317-4cc2-9630-04fb7e928dfe
+Path = /55396868-43a3-41cd-9fd3-b345a38f4aaf
+Reference = J5_FATHER1;
+ValeurCmp = Conn_02x27_Counter_Clockwise_MountingPin;
+IdModule  = IP11 Footprints KICAD:ZIF 54pin;
+EndCmp
+
+BeginCmp
+TimeStamp = f11904f1-a22a-4e02-849b-5fa20f7dd994
+Path = /30578078-cd8a-4752-96d3-bb0375c44bab
+Reference = J3_FATHER1;
+ValeurCmp = WIRELESS CHARGER CONNECTOR - PCBA FEMALE;
+IdModule  = IP11 Footprints KICAD:IP11_J7100_7_PCBA_WIRELESS_CHARGER_CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = f46ca922-cba8-4854-ad84-f17f8e05289c
+Path = /5c22fe21-6b63-4046-bcca-4cb54325fdd3
+Reference = J5_DAUGTHER1;
+ValeurCmp = Conn_02x27_Counter_Clockwise_MountingPin;
+IdModule  = IP11 Footprints KICAD:ZIF 54pin;
+EndCmp
+
+EndListe

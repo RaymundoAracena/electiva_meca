@@ -1,0 +1,68 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bbd1af0f-f9b0-4349-af74-98539704f8cc)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 76.2 104.14) (size 152.0444 45.974) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bdf55ce8-0e1f-445b-b9e2-fbe00f92952c)
+    (property "Sheetname" "inversor con sg3524" (at 76.2 103.4284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "inversor con sg3524.kicad_sch" (at 76.2 150.6986 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 76.2 104.14 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "inversor"
+        (path "/bbd1af0f-f9b0-4349-af74-98539704f8cc" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 76.5048 43.3324) (size 151.4856 46.7868) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c10f5737-6f38-4810-87e8-10fbdfc9c9f5)
+    (property "Sheetname" "inversor con 4047" (at 76.5048 42.6208 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "inversor con 4047.kicad_sch" (at 76.5048 90.7038 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "inversor"
+        (path "/bbd1af0f-f9b0-4349-af74-98539704f8cc" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 77.47 166.37) (size 66.04 19.05) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f8ee852f-3584-4224-9b66-1bdc5e5fa4ae)
+    (property "Sheetname" "inversor con 4047 2" (at 77.47 165.6584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "inversor con 4047 2.kicad_sch" (at 77.47 186.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "inversor"
+        (path "/bbd1af0f-f9b0-4349-af74-98539704f8cc" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
